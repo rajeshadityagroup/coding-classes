@@ -1,0 +1,9 @@
+class Dataprogram
+{
+public static void main(String args[])
+{
+System.out.println("Short Ranges");
+System.out.println("Short Minimum Range:"+Short.MIN_VALUE);
+System.out.println("Short Maximum Range:"+Short.MAX_VALUE);
+}
+}
